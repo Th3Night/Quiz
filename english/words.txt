@@ -1,0 +1,2 @@
+capture, obtain, district, approach, attend, faded, faint, establish, increase, flaws, involve
+document.getElementById("id")
