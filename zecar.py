@@ -1,13 +1,7 @@
-file = open("encrypted_string.txt")
-a = file.read()
-file.close()
-
-print(a)
-
+a = "encrypted_string"
 
 alph = "а, б, в, г, д, е, ё, ж, з, и, й, к, л, м, н, о, п, р, с, т, у, ф, х, ц, ч, ш, щ, ъ, ы, ь, э, ю, я, а, б, в, г, д, е, ё, ж, з, и, й, к, л, м, н, о, п, р, с, т, у, ф, х, ц, ч, ш, щ, ъ, ы, ь, э, ю, я"
 alph = alph.split(", ")
-file.close()
 
 print(alph)
 
