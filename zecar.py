@@ -5,7 +5,7 @@ alph = alph.split(", ")
 
 print(alph)
 
-for i in range(30):
+for i in range(33):
     copy = []
     for l in range(len(a)):
         copy.append("")
